@@ -77,4 +77,11 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Ramón Salado
+- Photo: https://avatars1.githubusercontent.com/u/9681847?s=460&v=4
+- Location: Seville, Spain
+- Bio: 💻 Open Source Contributor . 💻 Hacking
+- Github: https://github.com/ramsal
+***
+
 
